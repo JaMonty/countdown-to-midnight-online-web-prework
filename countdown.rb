@@ -2,7 +2,7 @@
 
 def countdown 
   x = 10 
-while counter > 10
+while counter > 0 
   puts "#{x} is less than 10"
   x -= 1
   puts "HAPPY NEW YEAR!"
