@@ -1,5 +1,5 @@
 #write your code here
 
-def countdown do 
-  it 
+def countdown 
+  
 end
